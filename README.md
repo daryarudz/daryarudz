@@ -1,2 +1,2 @@
 
-<img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=FFFF00"/> <img src="https://img.shields.io/badge/python-000000?style=for-the-badge&logo=Python&logoColor=1E90FF"/>
+<img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=FFFF00"/> <img src="https://img.shields.io/badge/python-000000?style=for-the-badge&logo=Python&logoColor=1E90FF"/> <img src="https://img.shields.io/badge/wordpress-000000?style=for-the-badge&logo=wordpress&logoColor=00FFFF"/> <img src="https://img.shields.io/badge/mysql-000000?style=for-the-badge&logo=mysql&logoColor=FF4500"/>
